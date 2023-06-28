@@ -1,0 +1,11 @@
+
+* {  
+    font-size: 'Popins', serif;
+    text-align: center;
+    background-color: rgb(189, 216, 250);
+}
+
+input {
+    padding: 7px;
+    width: 100%;
+}
